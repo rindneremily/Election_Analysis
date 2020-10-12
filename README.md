@@ -9,3 +9,4 @@ This election audit analysis compacted a large amount of data into a few readabl
 - Diana DeGette won the election. She had 73.8% of the votes totalling up to 272,892 votes.
 ## Election-Audit Summary
 This script can be used and modified to find data on any candidate or county added to the dataset. For future elections, you could add other counties that you want to find data on in order to predict how they would vote. You could save my analysis and use it to determine what percentage of each county likes each candidate and their policies. Using a modified version of the script could also be beneficial for politicians who want to increase voter turnouts in certain counties. The current script is very clear on the winner and where their votes come from. The image below proves that this script can be interpreted by anybody no matter the skill level. 
+![Winner txt.png](https://github.com/rindneremily/Election_Analysis/blob/main/Winner%20txt.png)
